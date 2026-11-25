@@ -2,8 +2,6 @@ package gui;
 
 import application.Main;
 import gui.util.Alerts;
-import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
@@ -11,13 +9,9 @@ import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.fxml.Initializable;
 import javafx.scene.layout.VBox;
-import javafx.util.Callback;
-import model.Entities.Person;
 
 import java.io.IOException;
 import java.net.URL;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.ResourceBundle;
 
 public class ViewController implements Initializable {
