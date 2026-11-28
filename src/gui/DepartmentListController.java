@@ -10,8 +10,8 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.Stage;
-import model.Entities.Department;
-import model.Entities.Services.DepartmentService;
+import model.entities.Department;
+import model.entities.Services.DepartmentService;
 
 import java.net.URL;
 import java.util.List;

@@ -9,7 +9,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.fxml.Initializable;
 import javafx.scene.layout.VBox;
-import model.Entities.Services.DepartmentService;
+import model.entities.Services.DepartmentService;
 
 import java.io.IOException;
 import java.net.URL;
